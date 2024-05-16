@@ -1,0 +1,91 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MainContaBancaria",
+            "request": "launch",
+            "mainClass": "MainContaBancaria",
+            "projectName": "java_e7e41ef9"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresLogicos",
+            "request": "launch",
+            "mainClass": "OperadoresLogicos",
+            "projectName": "java_e7e41ef9"
+        },
+        {
+            "type": "java",
+            "name": "Operadoreslogicos",
+            "request": "launch",
+            "mainClass": "Operadoreslogicos",
+            "projectName": "java_e7e41ef9"
+        },
+        {
+            "type": "java",
+            "name": "Operadores2",
+            "request": "launch",
+            "mainClass": "Operadores2",
+            "projectName": "java_e7e41ef9"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Conversoes",
+            "request": "launch",
+            "mainClass": "Conversoes",
+            "projectName": "java_e7e41ef9"
+        },
+        {
+            "type": "java",
+            "name": "Imc",
+            "request": "launch",
+            "mainClass": "Imc",
+            "projectName": "java_e7e41ef9"
+        },
+        {
+            "type": "java",
+            "name": "LeituraDeDados",
+            "request": "launch",
+            "mainClass": "LeituraDeDados",
+            "projectName": "java_e7e41ef9"
+        },
+        {
+            "type": "java",
+            "name": "OlaMundo",
+            "request": "launch",
+            "mainClass": "OlaMundo",
+            "projectName": "java_e7e41ef9"
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "Operadores",
+            "projectName": "java_e7e41ef9"
+        },
+        {
+            "type": "java",
+            "name": "Soma",
+            "request": "launch",
+            "mainClass": "Soma",
+            "projectName": "java_e7e41ef9"
+        },
+        {
+            "type": "java",
+            "name": "TiposDeDados",
+            "request": "launch",
+            "mainClass": "TiposDeDados",
+            "projectName": "java_e7e41ef9"
+        }
+    ]
+}
