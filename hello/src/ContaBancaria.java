@@ -11,6 +11,10 @@ public class ContaBancaria {
     public int numero, agencia;
     public double saldo;
 
+    public ContaBancaria (int numero) {
+        this.numero = numero;
+    }
+
     public int getNumero() {
         return numero;
     }

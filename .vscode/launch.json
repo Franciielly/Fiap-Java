@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TesteConta",
+            "request": "launch",
+            "mainClass": "TesteConta",
+            "projectName": "java-fiap_438f6a86"
+        },
+        {
+            "type": "java",
             "name": "MainContaBancaria",
             "request": "launch",
             "mainClass": "MainContaBancaria",
