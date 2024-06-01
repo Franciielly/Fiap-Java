@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TiposDeDados",
+            "request": "launch",
+            "mainClass": "TiposDeDados",
+            "projectName": "java-fiap_438f6a86"
+        },
+        {
+            "type": "java",
+            "name": "StringCon",
+            "request": "launch",
+            "mainClass": "StringCon",
+            "projectName": "java-fiap_438f6a86"
+        },
+        {
+            "type": "java",
+            "name": "String",
+            "request": "launch",
+            "mainClass": "String",
+            "projectName": "java-fiap_438f6a86"
+        },
+        {
+            "type": "java",
             "name": "TesteConta",
             "request": "launch",
             "mainClass": "TesteConta",
