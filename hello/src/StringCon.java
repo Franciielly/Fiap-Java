@@ -39,7 +39,7 @@ public class StringCon {
             System.out.println("As strings são diferentes");
         }
 
-        //método starWith: veirifica primeira palavra ou caracteres
+        //método starWith: verifica primeira palavra ou caracteres
 
         String linguagem = "Java - Programação orientada a objetos";
         if (linguagem.startsWith("Java")) {
