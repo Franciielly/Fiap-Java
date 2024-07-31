@@ -1,0 +1,17 @@
+public class ContaCorrente extends Conta {
+    private double limite;
+    
+    @Override
+    public void sacar (double valor) throws SaldoInsuficiente {
+        if (valor > saldo + limite) {
+            throw new SaldoInsuficiente();
+        
+        }
+        saldo = saldo - valor;
+    }
+    @Override
+    public double verificarSaldo(){
+        return saldo + limite;
+    }
+    
+}
